@@ -4,7 +4,7 @@ I am interested in:
 
 * Fast Radio Bursts
 * Pulsars and neutron stars in general
-* Radio astronomy/astrophysics
+* Radio astronomy & astrophysics
 * Instrumentation
 * Data analysis
 * Statistical methods
